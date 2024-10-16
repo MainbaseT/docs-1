@@ -5,6 +5,10 @@ order: 0
 
 # [Deprecated] Using Cloudflare Logpush
 
+!!!
+We launched [Workers Logs](https://developers.cloudflare.com/workers/observability/logs/workers-logs/) to enable Observability for Cloudflare Workers directly in the Cloudflare Dashboard. 
+!!!
+
 [Cloudflare Logpush](https://developers.cloudflare.com/logs/about/) is a service provided by Cloudflare that enables you to stream your Cloudflare Worker Trace Event Logs to Baselime.
 
 !!!

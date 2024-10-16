@@ -5,7 +5,7 @@ order: -2
 
 # Cloudflare Pages
 
-[Cloudflare Pages](https://developers.cloudflare.com/pages/) is a frontend app development platform. Baselime enabled your to capture the server-side logs of your applications deployed on Cloudflare pages.
+[Cloudflare Pages](https://developers.cloudflare.com/pages/) is Cloudflare's app development platform. Baselime enabled your to capture the server-side logs of your applications deployed on Cloudflare pages.
 
 ---
 

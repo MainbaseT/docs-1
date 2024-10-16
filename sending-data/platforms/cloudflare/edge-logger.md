@@ -5,6 +5,10 @@ order: -1
 
 # Edge Logger
 
+!!!
+We launched [Workers Logs](https://developers.cloudflare.com/workers/observability/logs/workers-logs/) to enable Observability for Cloudflare Workers directly in the Cloudflare Dashboard. 
+!!!
+
 Cloudflare Logpush is not available in all Cloudflare edge environments. In those environments, it's necessary to emit logs from within the process. The [Baselime Edge Logger](https://github.com/baselime/edge-logger) enables you to send logs from your Cloudflare edge environments to Baselime regardless of the platform.
 
 It enables logging from:
